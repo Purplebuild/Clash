@@ -23,16 +23,16 @@
 
 策略组如图
 
-![](https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Config/Resource/1.png)
+![](https://github.com/Purplebuild/Clash/blob/main/Config/Resource/1.png)
 
-![](https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Config/Resource/2.png)
+![](https://github.com/Purplebuild/Clash/blob/main/Config/Resource/2.png)
 
-![](https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Config/Resource/3.png)
+![](https://github.com/Purplebuild/Clash/blob/main/Config/Resource/3.png)
 
-![](https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Config/Resource/4.png)
+![](https://github.com/Purplebuild/Clash/blob/main/Config/Resource//4.png)
 
-![](https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Config/Resource/5.png)
+![](https://github.com/Purplebuild/Clash/blob/main/Config/Resource//5.png)
 
-![](https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Config/Resource/6.png)
+![](https://github.com/Purplebuild/Clash/blob/main/Config/Resource//6.png)
 
-![](https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Config/Resource/7.png)
+![](https://github.com/Purplebuild/Clash/blob/main/Config/Resource//7.png)
