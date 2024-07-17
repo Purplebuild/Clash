@@ -271,7 +271,7 @@ rule-providers:
   TestFlight:
     <<: *RuleProviders
     path: './rules/TestFlight.yaml'
-    url: 'https://gitlab.com/lodepuly/proxy_tool_resources/-/raw/master/rule/Clash/TestFlight/TestFlight.yaml'
+    url: 'https://raw.githubusercontent.com/Purplebuild/Clash/main/Rule/TestFlight.yaml'
 
   Microsoft:
     <<: *RuleProviders
