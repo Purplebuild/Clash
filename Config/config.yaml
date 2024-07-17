@@ -231,42 +231,42 @@ rule-providers:
   Steam:
     <<: *RuleProviders
     path: './rules/Steam.yaml'
-    url: 'https://gitlab.com/lodepuly/proxy_tool_resources/-/raw/master/rule/Clash/Steam/Steam.yaml'
+    url: 'https://raw.githubusercontent.com/Purplebuild/Clash/main/Rule/steam.yaml'
 
   Netflix:
     <<: *RuleProviders
     path: './rules/Netflix.yaml'
-    url: 'https://gitlab.com/lodepuly/proxy_tool_resources/-/raw/master/rule/Clash/Netflix/Netflix.yaml'
+    url: 'https://raw.githubusercontent.com/Purplebuild/Clash/main/Rule/Netflix.yaml'
 
   Emby:
     <<: *RuleProviders
     path: './rules/Emby.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/EmbyServer.yaml'
+    url: 'https://raw.githubusercontent.com/Purplebuild/Clash/main/Rule/EmbyServer.yaml'
 
   iCloudChina:
     <<: *RuleProviders
     path: './rules/iCloudChina.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/iCloudChina.yaml'
+    url: 'https://raw.githubusercontent.com/Purplebuild/Clash/main/Rule/iCloudChina.yaml'
 
   ApplePushNotificationService:
     <<: *RuleProviders
     path: './rules/ApplePushNotificationService.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/ApplePushNotificationService.yaml'
+    url: 'https://raw.githubusercontent.com/Purplebuild/Clash/main/Rule/ApplePushNotificationService.yaml'
 
   AppleSoftwareUpdates:
     <<: *RuleProviders
     path: './rules/AppleSoftwareUpdates.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/AppleSoftwareUpdates.yaml'
+    url: 'https://raw.githubusercontent.com/Purplebuild/Clash/main/Rule/AppleSoftwareUpdates.yaml'
 
   AppleID:
     <<: *RuleProviders
     path: './rules/AppleID.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/AppleID.yaml'
+    url: 'https://raw.githubusercontent.com/Purplebuild/Clash/main/Rule/AppleID.yaml'
 
   AppStore:
     <<: *RuleProviders
     path: './rules/AppStore.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/AppStore.yaml'
+    url: 'https://raw.githubusercontent.com/Purplebuild/Clash/main/Rule/AppStore.yaml'
 
   TestFlight:
     <<: *RuleProviders
