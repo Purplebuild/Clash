@@ -276,7 +276,7 @@ rule-providers:
   Microsoft:
     <<: *RuleProviders
     path: './rules/Microsoft.yaml'
-    url: 'https://gitlab.com/lodepuly/proxy_tool_resources/-/raw/master/rule/Clash/Microsoft/Microsoft.yaml'
+    url: 'https://raw.githubusercontent.com/Purplebuild/Clash/main/Rule/Microsoft.yaml'
 
   Google:
     <<: *RuleProviders
