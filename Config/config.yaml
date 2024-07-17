@@ -281,17 +281,17 @@ rule-providers:
   Google:
     <<: *RuleProviders
     path: './rules/Google.yaml'
-    url: 'https://gitlab.com/lodepuly/proxy_tool_resources/-/raw/master/rule/Clash/Google/Google.yaml'
+    url: 'https://raw.githubusercontent.com/Purplebuild/Clash/main/Rule/Google.yaml'
 
   Telegram:
     <<: *RuleProviders
     path: './rules/Telegram.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/Telegram.yaml'
+    url: 'https://raw.githubusercontent.com/Purplebuild/Clash/main/Rule/Telegram.yaml'
 
   ESET_China:
     <<: *RuleProviders
     path: './rules/ESET_China.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/ESET_China.yaml'
+    url: 'https://raw.githubusercontent.com/Purplebuild/Clash/main/Rule/ESET_China.yaml'
 
 # 规则指向
 rules:
