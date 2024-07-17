@@ -191,42 +191,42 @@ rule-providers:
   Direct:
     <<: *RuleProviders
     path: './rules/Direct.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/Direct.yaml'
+    url: 'https://raw.githubusercontent.com/Purplebuild/Clash/main/Rule/Direct.yaml'
 
   Proxy:
     <<: *RuleProviders
     path: './rules/Proxy.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/Proxy.yaml'
+    url: 'https://raw.githubusercontent.com/Purplebuild/Clash/main/Rule/Proxy.yaml'
 
   ChinaDownloadCDN:
     <<: *RuleProviders
     path: './rules/ChinaDownloadCDN.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/ChinaDownloadCDN.yaml'
+    url: 'https://raw.githubusercontent.com/Purplebuild/Clash/main/Rule/ChinaDownloadCDN.yaml'
 
   InternationalDownloadCDN:
     <<: *RuleProviders
     path: './rules/InternationalDownloadCDN.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/InternationalDownloadCDN.yaml'
+    url: 'https://raw.githubusercontent.com/Purplebuild/Clash/main/Rule/InternationalDownloadCDN.yaml'
 
   AI:
     <<: *RuleProviders
     path: './rules/AI.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/AI.yaml'
+    url: 'https://raw.githubusercontent.com/Purplebuild/Clash/main/Rule/AI.yaml'
 
   TikTok:
     <<: *RuleProviders
     path: './rules/TikTok.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/TikTok.yaml'
+    url: 'https://raw.githubusercontent.com/Purplebuild/Clash/main/Rule/TikTok.yaml'
 
   Game:
     <<: *RuleProviders
     path: './rules/Game.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/Game.yaml'
+    url: 'https://raw.githubusercontent.com/Purplebuild/Clash/main/Rule/Game.yaml'
 
   1Password:
     <<: *RuleProviders
     path: './rules/1PasswordUS.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/1PasswordUS.yaml'
+    url: 'https://raw.githubusercontent.com/Purplebuild/Clash/main/Rule/1PasswordUS.yaml'
 
   Steam:
     <<: *RuleProviders
